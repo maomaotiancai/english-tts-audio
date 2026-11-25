@@ -1,0 +1,58 @@
+{
+ "185bd23e5c": {
+  "t": "This is my sofa.",
+  "cat": "sentences",
+  "voices": {
+   "man": "audio/man/185bd23e5c.mp3",
+   "woman": "audio/woman/185bd23e5c.mp3"
+  }
+ },
+ "2c18e48668": {
+  "t": "remote",
+  "cat": "words",
+  "voices": {
+   "woman": "audio/woman/2c18e48668.mp3",
+   "man": "audio/man/2c18e48668.mp3"
+  }
+ },
+ "b7e911b3ad": {
+  "t": "Turn on the television with the remote.",
+  "cat": "sentences",
+  "voices": {
+   "man": "audio/man/b7e911b3ad.mp3",
+   "woman": "audio/woman/b7e911b3ad.mp3"
+  }
+ },
+ "48bb6e862e": {
+  "t": "easy",
+  "cat": "antonyms",
+  "voices": {
+   "woman": "audio/woman/48bb6e862e.mp3",
+   "man": "audio/man/48bb6e862e.mp3"
+  }
+ },
+ "7a2cc8b443": {
+  "t": "sofa",
+  "cat": "words",
+  "voices": {
+   "man": "audio/man/7a2cc8b443.mp3",
+   "woman": "audio/woman/7a2cc8b443.mp3"
+  }
+ },
+ "019bc29a33": {
+  "t": "It is my sofa.",
+  "cat": "scenes",
+  "voices": {
+   "man": "audio/man/019bc29a33.mp3",
+   "woman": "audio/woman/019bc29a33.mp3"
+  }
+ },
+ "79464212af": {
+  "t": "television",
+  "cat": "words",
+  "voices": {
+   "man": "audio/man/79464212af.mp3",
+   "woman": "audio/woman/79464212af.mp3"
+  }
+ }
+}
